@@ -1,0 +1,51 @@
+var gPlayData = {
+    "langlink":"player_401_e.html",
+    "nextlink":"player_002.html?402",
+    "jptitle":"第4課　営業報告会に出る",
+    "jp": [
+        "課長：じゃあ、次、アナンさん、お願いします。",
+        "アナン：はい。お手元の資料をご覧ください。ABC商会のタイ進出の件に関してご報告いたします。",
+        "課長：ABC商会がバンコクを中心に展開したいと言っていたシャツの件ですね。",
+        "アナン：はい。今、私が着ているこのシャツです。これは吸水性に優れ、防臭効果も高く、高温多湿のタイにおいてはうってつけの商品です。",
+        "ニール：そのシャツは営業用だったんですね。アナンさんにしては、派手だと思ったんですよ。",
+        "課長：よく似合ってますよ。資料によると、社長はあまりリスクを取りたくないということですね。",
+        "アナン：はい。それで、まず社長に、パイロット事業として始めてはどうかと提案しようと思います。",
+        "ニール：つまり、店舗を出して様子を見るということですね。",
+        "アナン：はい。うちのバンコク支店に聞いたところ、フラワーモールがよさそうだということでした。",
+        "朱：フラワーモールですか。タイのおしゃれなスポットとして、年齢を問わず人気がある所ですね。",
+        "アナン：はい。実際見てみないことには、イメージできないと思いますので、一度社長を現地視察にお連れしたいのですが。",
+        "課長：いいんじゃないですか。じゃあ、その方向で先方に提案して、話を詰めてください。",
+        "アナン：はい。承知しました。"
+    ],
+    "en": [
+        "Section Manager: OK, next is Anan-san. Please go ahead.",
+        "Anan: Thank you. Please look at the documents in front of you. I will make a report regarding the matter of ABC firm’s expansion into Thailand.",
+        "Section Manager: You said that ABC firm wants to expand with a focus on Bangkok. It’s a matter of shirts, isn’t it?",
+        "Anan: Yes. It is this shirt that I am wearing now. It excels in water absorbency, it has high odor-blocking efficiency, and in the high heat, high humidity of Thailand, it is an ideal product.",
+        "Neal: Ah, that shirt was for business! Considering it’s you, Anan-san, I thought it was flashy!",
+        "Section Manager: It looks good on you. According to the documents, the director does not want to take up a lot of risk, is that correct?",
+        "Anan: Yes. So, to the director I’m thinking of proposing that they start as a pilot business.",
+        "Neal: In other words, they will put out a store and see how it goes.",
+        "Anan: Yes. When I asked our Bangkok branch, they said that Flower Mall seems to be good.",
+        "Shu: Flower Mall? It’s a stylish spot in Thailand that’s popular no matter the age group, isn’t it?",
+        "Anan: Yes. We won’t be able to get a good image unless we actually take a look, so once I’d like to take the director to observe the actual site.",
+        "Section Manager: That’s not a bad idea. In that case, please make a proposal to them in that direction and flesh out the discussion.",
+        "Anan: Understood."
+    ],
+    "mp3":[
+        "s4_h_01.mp3",
+        "s4_h_02.mp3",
+        "s4_h_03.mp3",
+        "s4_h_04.mp3",
+        "s4_h_05.mp3",
+        "s4_h_06.mp3",
+        "s4_h_07.mp3",
+        "s4_h_08.mp3",
+        "s4_h_09.mp3",
+        "s4_h_10.mp3",
+        "s4_h_11.mp3",
+        "s4_h_12.mp3",
+        "s4_h_13.mp3",
+        "s4_h_14.mp3"
+    ]
+};
